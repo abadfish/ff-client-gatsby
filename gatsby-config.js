@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Farrier's Fix`,
+    description: `All natural for health and healing. Fix sore feet and toughen hooves.`,
     author: `@gatsbyjs`,
   },
   plugins: [
